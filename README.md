@@ -1,2 +1,2 @@
 # Googleplay-API
-Extracting the rankings feom google play store using master token
+Extracting the rankings from google play store using master token
