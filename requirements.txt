@@ -1,0 +1,6 @@
+boto3
+botocore
+retry==0.9.2
+urllib3==1.25.11
+future-fstrings
+#https://github.com/AppMonsta/gpapi_v2/releases/download/gpapi/gpapi-0.0.1-py3-none-any.whl
